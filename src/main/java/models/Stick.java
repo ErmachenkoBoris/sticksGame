@@ -11,7 +11,7 @@ public class Stick extends Rectangle {
     public boolean horizontal = false;
     public boolean cell = false;
     int id;
-    public Color color = new Color(172, 172, 172);
+    public Color color = new Color(172, 17, 117);
     public Stick(int x, int y, int w, int h, int id) {
         super();
         this.x = x;
